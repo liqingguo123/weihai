@@ -1,0 +1,64 @@
+.footer {
+	background: #2E343A;
+	overflow: hidden;
+}
+
+.footer div {
+	color: #fff;
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.footer ul {
+	overflow: hidden;
+	float: left;
+	width: 25%;
+	margin: 20px 0px;
+}
+
+.footer ul:nth-child(2) {
+	width: 10%;
+}
+
+.footer ul:nth-child(3) {
+	width: 35%;
+}
+
+.footer ul:nth-child(3) li {
+	float: left;
+	width: 50%;
+}
+
+.footer ul li:first-child {
+	font-size: 16px;
+	color: #fff;
+}
+
+.footer ul li {
+	color: #C1C9C9;
+	line-height: 30px;
+}
+
+.footer ul:nth-child(3) li:first-child {
+	display: block!important;
+	width: 100%;
+}
+
+.phone {
+	color: #fff!important;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.btn {
+	background: #FF4700;
+	color: #fff!important;
+	border: none;
+	padding: 5px 20px;
+}
+.tx{
+	text-align: center;
+}
+.txr{
+	text-align: right;
+}

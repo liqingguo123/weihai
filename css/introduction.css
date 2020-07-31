@@ -1,0 +1,176 @@
+div.gs_ban {
+	min-height: 537px;
+}
+.wd12 {
+    width: 1200px;
+    margin: 0px auto;
+}
+
+.gs_ban {
+	display: block;
+	width: 100%;
+	min-height: 537px;
+	background: url(../img/banner.png) no-repeat;
+	background-position: 50% 50%;
+	background-size: cover;
+}
+
+.ban1_nn {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding-top: 108px;
+}
+
+.ban1_nn h2 {
+	font-size: 36px;
+	color: #1256a5;
+	line-height: 1.1;
+	font-family: '微软雅黑';
+}
+
+.Finalvcontent .eng_menu {
+	float: left;
+	position: relative;
+	width: 50%;
+	height: 51px;
+	background: rgb(214, 214, 214);
+	z-index: 10000;
+	top: inherit;
+}
+
+.Finalvcontent .eng_menu ul {
+	right: 395px;
+	position: absolute;
+	margin: 0;
+	padding: 0;
+	top: 18px;
+}
+
+.Finalvcontent .eng_menu ul li {
+	float: left;
+	color: #898989;
+	margin-right: 10px;
+}
+
+.Finalvcontent .eng_menu ul li a {
+	color: #2e67a6;
+	width: 80px;
+	font-size: 16px;
+}
+
+.Finalvcontent .eng_menu ul li a:hover,
+.Finalvcontent .eng_menu ul li.actived a {
+	color: #f33212 !important;
+}
+
+.Finalvcontent .menur {
+	width: 50%;
+	height: 51px;
+}
+
+.Finalvcontent .eng_menu:after {
+	content: url(../img/2020060409334253617.png);
+	position: absolute;
+	right: -50px;
+}
+
+.i_content {
+	width: 1200px;
+	margin: 20px auto;
+}
+
+.i_content img {
+	display: inline-block;
+	float: left;
+	margin-right: 15px;
+}
+
+.i_content p {
+	line-height: 24px;
+	font-size: 16px;
+	text-indent: 25px;
+}
+
+.i_content_image {
+	width: 100%;
+	overflow: hidden;
+	background: #F7F7F7;
+	padding-bottom: 30px;
+}
+
+.i_image {
+	width: 1200px;
+	margin: 20px auto;
+}
+
+.i_image img {
+	width: 32%;
+	float: left;
+	height: 260px;
+	margin: 20px 0.5%;
+}
+
+.i_content_image p {
+	text-align: center;
+	line-height: 90px;
+	font-size: 28px;
+	font-weight: 500;
+	color: #333;
+}
+.wenhua{
+	width: 1200px;
+	margin: 0 auto;
+	margin-bottom: 30px;
+}
+.wenhua p{
+	text-align: center;
+    line-height: 90px;
+    font-size: 28px;
+    font-weight: 500;
+    color: #333;
+}
+.wenhua div{
+	text-align: center;
+	color: #005eb3;
+    line-height: 24px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.gs_ban div div {
+    background-color: #EB5406;
+    float: left;
+    width: 300px;
+    height: 80px;
+    position: relative;
+    text-align: center;
+}
+
+.gs_ban div div img {
+    position: absolute;
+    bottom: 5px;
+    left: 10px;
+}
+
+.gs_ban ul {
+   	right:0px;
+    height: auto;
+    width: 900px;
+    position: absolute;
+    margin-top: 35px;
+    background-color: #fff;
+}
+
+.gs_ban ul li {
+    float: left;
+    width: 23%;
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    border-right: 1px solid #ddd;
+}
+
+.bannerli {
+    color: #FF4700;
+    border-bottom: 2px solid #FF4700;
+}
